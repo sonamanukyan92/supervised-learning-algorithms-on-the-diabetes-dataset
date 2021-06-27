@@ -1,15 +1,15 @@
 # supervised-learning-algorithms-on-the-diabetes-dataset
-Early Stage Diabetes Risk Prediction /n
-The analysis include following:
-1  General Information
-2  Data Visualization
-3  Machine Learning Models
-3.1  Naive Bayes
-3.2  Decision Tree Classification
-3.3  Random Forest Classifier
-3.4  XGBoost
-3.5  Logistic Regression
-3.6  K-Nearest Neighbors (K-NN)
-3.7  Support Vector Machine (SVM)
-3.8  Kernel SVM
-4  Model Comparison
+Early Stage Diabetes Risk Prediction <br />
+The analysis include following: <br />
+1  General Information <br />
+2  Data Visualization <br />
+3  Machine Learning Models <br />
+3.1  Naive Bayes <br />
+3.2  Decision Tree Classification <br />
+3.3  Random Forest Classifier <br />
+3.4  XGBoost <br />
+3.5  Logistic Regression <br />
+3.6  K-Nearest Neighbors (K-NN) <br />
+3.7  Support Vector Machine (SVM) <br />
+3.8  Kernel SVM <br />
+4  Model Comparison <br />
