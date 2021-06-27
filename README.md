@@ -1,5 +1,5 @@
 # supervised-learning-algorithms-on-the-diabetes-dataset
-Early Stage Diabetes Risk Prediction
+Early Stage Diabetes Risk Prediction /n
 The analysis include following:
 1  General Information
 2  Data Visualization
